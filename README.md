@@ -21,6 +21,7 @@ You can watch the video where I explain the project and share my findings: [Pres
 
 ## Dataset
 The Airbnb NYC 2019 dataset used in this project can be found here: [Airbnb NYC 2019 Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
 ## How You Can Contribute
 I'm new to Data Science and would greatly appreciate any feedback, suggestions, or corrections you may have. Feel free to open issues, contribute code improvements, or share ideas for further analysis. Your insights will help me learn and improve!
 
